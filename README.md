@@ -11,4 +11,25 @@
 
 - 📫 How to reach me **rahulrr5047@gmail.com**
 - 📫 How to reach me **+91 6352807475**
+# Top Skills
+
+## Programming Language
+- JavaScript
+- Python
+
+## Backend
+- Node.js
+- Express.js
+- SQL
+
+## Frontend
+- HTML
+- CSS
+- Bootstrap
+
+## Database
+- MySQL
+- SQL Oracle
+- SQL Server
+- MongoDB
 
